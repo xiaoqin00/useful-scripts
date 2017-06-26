@@ -1,0 +1,5 @@
+使用方法：
+python LANIPscanner.py  10.10.10.10
+后面可以继续改进
+
+python版本为2.7
